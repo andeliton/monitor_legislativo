@@ -4,7 +4,7 @@
 ![Shiny](https://img.shields.io/badge/Shiny-1.8-blue)
 
 <div align="center">
-  <a href="#-english">🇺🇸 English</a> |
+  <a href="#-english"> English</a> |
   <a href="#-português">🇧🇷 Português</a>
 </div>
 
@@ -12,7 +12,7 @@
 
 <div id="-english"></div>
 
-## 🇺🇸 English
+## English
 
 ### About the Project
 This repository contains a dashboard built with **R** and **Shiny** to visualize voting data from the Brazilian Chamber of Deputies. The application allows users to filter votes by year, party, and state, providing a clear view of parliamentary behavior.
