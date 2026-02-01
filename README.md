@@ -71,4 +71,4 @@ Este repositório contém um dashboard desenvolvido em **R** e **Shiny** para vi
 4.  Abra o arquivo `app.R` e clique em **Run App**.
 
 ---
-*Developed by Andeliton Soares*
+*Developed by Andéliton Soares*
